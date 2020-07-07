@@ -1,0 +1,14 @@
+1594114153806	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bf/1hdkmqwj6k3_0rdd9fw5jtfh0000gn/T/rust_mozprofileZdqk4P"
+1594114156127	Marionette	INFO	Listening on port 59198
+1594114156190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594114158602	Marionette	INFO	Stopped listening on port 59198
+1594114183735	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bf/1hdkmqwj6k3_0rdd9fw5jtfh0000gn/T/rust_mozprofileuxle8S"
+1594114185810	Marionette	INFO	Listening on port 59294
+1594114185891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594114187845	Marionette	INFO	Stopped listening on port 59294
+1594114902814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bf/1hdkmqwj6k3_0rdd9fw5jtfh0000gn/T/rust_mozprofilezELsEf"
+1594114904762	Marionette	INFO	Listening on port 59407
+1594114904779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594114907126	Marionette	INFO	Stopped listening on port 59407
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
